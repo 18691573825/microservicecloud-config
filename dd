@@ -1,9 +1,0 @@
-n name="ga logical ipV4" mmltable="clouddesign_horizontal.tbl_usn_add_chgcdpip" mmlparam="parameter" paramvalue="ipv4addr" defaultvalue="" condition="">
-            </column>
-			<column name="ga logical ipV6" mmltable="clouddesign_horizontal.tbl_usn_add_chgcdpip" mmlparam="parameter" paramvalue="ipv6addr" defaultvalue="" condition="">
-            </column>
-            <column name="portbgn" mmltable="" mmlparam="" paramvalue="" defaultvalue="1024" condition="">
-            </column>
-            <column name="portend" mmltable="" mmlparam="" paramvalue="" defaultvalue="1151" condition="">
-            </column>
-            <column name="vpn" mmltabl
